@@ -1,4 +1,4 @@
 # Projeto-tecblog
 
 
-Projeto criado para praticar o conhecimento adquirido com os estudos básicos de html e css
+Projeto criado para por em prática o conhecimento adquirido com os estudo de html e css básico
